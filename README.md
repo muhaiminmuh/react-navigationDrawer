@@ -2,5 +2,6 @@
 
 
 # Requirement
-`react-native@0.55.4`
-`react-navigation`
+
+* `react-native@0.55.4`
+* `react-navigation`
